@@ -1,20 +1,22 @@
 node.js
 *************************************************************
-şağ sem ég veit um node.js:
-er mjög öflug netkerfis ağferğ.
-á víst ağ geta höndlağ slatta tenginga meğ litlum kostnağ.
-javascript hentar vel vefsiğugerğ.
+Ã¾aÃ° sem Ã©g veit um node.js:
+er mjÃ¶g Ã¶flug netkerfis aÃ°ferÃ°.
+Ã¡ vÃ­st aÃ° geta hÃ¶ndlaÃ° slatta tenginga meÃ° litlum kostnaÃ°.
+javascript hentar vel vefsiÃ°ugerÃ°.
 *************************************************************
 REST API
 *************************************************************
-REST API er ağferğ tenginga,
-öll sambönd eru notuğ gegnum http-parse(GET,POST,PUT,DELETE)
-URL eru ekki meğ neinar breytur,
+REST API er aÃ°ferÃ° tenginga,
+Ã¶ll sambÃ¶nd eru notuÃ° gegnum http-parse(GET,POST,PUT,DELETE)
+URL eru ekki meÃ° neinar breytur,
 er basically bara library sem notar http-parse breytur
 *************************************************************
 MongoDB
 *************************************************************
-mongodb er hrağvirkur skjala gagnagrunnur sem notar ekki sql
-mongodb geymir skjöl eins og json.
-notar ekki mismunandi uppbyggingar fyir ákveğin efni
+mongodb er hraÃ°virkur skjala gagnagrunnur sem notar ekki sql
+mongodb geymir skjÃ¶l eins og json.
+notar ekki mismunandi uppbyggingar fyir Ã¡kveÃ°in efni
 *************************************************************
+
+Ãetta er test fyrir heroku

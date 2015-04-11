@@ -1,0 +1,59 @@
+2015-03-25T08:54:48.317+0000 Trying to start Windows service 'MongoDB'
+2015-03-25T08:54:48.317+0000 Service running
+2015-03-25T08:54:48.367+0000 [initandlisten] MongoDB starting : pid=2500 port=27017 dbpath=c:\verkefni3\data\db 64-bit host=Hogni-PC
+2015-03-25T08:54:48.367+0000 [initandlisten] targetMinOS: Windows 7/Windows Server 2008 R2
+2015-03-25T08:54:48.377+0000 [initandlisten] db version v2.6.5
+2015-03-25T08:54:48.377+0000 [initandlisten] git version: e99d4fcb4279c0279796f237aa92fe3b64560bf6
+2015-03-25T08:54:48.377+0000 [initandlisten] build info: windows sys.getwindowsversion(major=6, minor=1, build=7601, platform=2, service_pack='Service Pack 1') BOOST_LIB_VERSION=1_49
+2015-03-25T08:54:48.377+0000 [initandlisten] allocator: system
+2015-03-25T08:54:48.377+0000 [initandlisten] options: { config: "C:\mongodb\mongod.cfg", service: true, storage: { dbPath: "c:\verkefni3\data\db" }, systemLog: { destination: "file", path: "c:\verkefni3\data\log\mongod.log" } }
+2015-03-25T08:54:48.387+0000 [initandlisten] journal dir=c:\verkefni3\data\db\journal
+2015-03-25T08:54:48.387+0000 [initandlisten] recover : no journal files present, no recovery needed
+2015-03-25T08:54:48.667+0000 [initandlisten] waiting for connections on port 27017
+2015-03-25T08:55:48.631+0000 [clientcursormon] mem (MB) res:55 virt:449
+2015-03-25T08:55:48.631+0000 [clientcursormon]  mapped (incl journal view):320
+2015-03-25T08:55:48.631+0000 [clientcursormon]  connections:0
+2015-03-25T09:00:48.793+0000 [clientcursormon] mem (MB) res:55 virt:448
+2015-03-25T09:00:48.793+0000 [clientcursormon]  mapped (incl journal view):320
+2015-03-25T09:00:48.793+0000 [clientcursormon]  connections:0
+2015-03-25T09:05:48.878+0000 [clientcursormon] mem (MB) res:55 virt:447
+2015-03-25T09:05:48.878+0000 [clientcursormon]  mapped (incl journal view):320
+2015-03-25T09:05:48.878+0000 [clientcursormon]  connections:0
+2015-03-25T09:10:49.011+0000 [clientcursormon] mem (MB) res:55 virt:447
+2015-03-25T09:10:49.011+0000 [clientcursormon]  mapped (incl journal view):320
+2015-03-25T09:10:49.011+0000 [clientcursormon]  connections:0
+2015-03-25T09:15:49.042+0000 [clientcursormon] mem (MB) res:55 virt:447
+2015-03-25T09:15:49.042+0000 [clientcursormon]  mapped (incl journal view):320
+2015-03-25T09:15:49.042+0000 [clientcursormon]  connections:0
+2015-03-25T09:20:49.297+0000 [clientcursormon] mem (MB) res:55 virt:447
+2015-03-25T09:20:49.297+0000 [clientcursormon]  mapped (incl journal view):320
+2015-03-25T09:20:49.297+0000 [clientcursormon]  connections:0
+2015-03-25T09:25:49.451+0000 [clientcursormon] mem (MB) res:55 virt:447
+2015-03-25T09:25:49.451+0000 [clientcursormon]  mapped (incl journal view):320
+2015-03-25T09:25:49.451+0000 [clientcursormon]  connections:0
+2015-03-25T09:30:49.569+0000 [clientcursormon] mem (MB) res:55 virt:447
+2015-03-25T09:30:49.569+0000 [clientcursormon]  mapped (incl journal view):320
+2015-03-25T09:30:49.569+0000 [clientcursormon]  connections:0
+2015-03-25T09:35:49.619+0000 [clientcursormon] mem (MB) res:55 virt:447
+2015-03-25T09:35:49.619+0000 [clientcursormon]  mapped (incl journal view):320
+2015-03-25T09:35:49.619+0000 [clientcursormon]  connections:0
+2015-03-25T09:40:49.691+0000 [clientcursormon] mem (MB) res:55 virt:447
+2015-03-25T09:40:49.691+0000 [clientcursormon]  mapped (incl journal view):320
+2015-03-25T09:40:49.691+0000 [clientcursormon]  connections:0
+2015-03-25T09:45:05.954+0000 CTRL_SHUTDOWN_EVENT signal
+2015-03-25T09:45:05.954+0000 [consoleTerminate] got CTRL_SHUTDOWN_EVENT, will terminate after current cmd ends
+2015-03-25T09:45:05.954+0000 [consoleTerminate] now exiting
+2015-03-25T09:45:05.954+0000 [consoleTerminate] dbexit: 
+2015-03-25T09:45:05.954+0000 [consoleTerminate] shutdown: going to close listening sockets...
+2015-03-25T09:45:05.954+0000 [consoleTerminate] closing listening socket: 540
+2015-03-25T09:45:05.954+0000 [consoleTerminate] shutdown: going to flush diaglog...
+2015-03-25T09:45:05.954+0000 [consoleTerminate] shutdown: going to close sockets...
+2015-03-25T09:45:05.954+0000 [consoleTerminate] shutdown: waiting for fs preallocator...
+2015-03-25T09:45:05.954+0000 [consoleTerminate] shutdown: lock for final commit...
+2015-03-25T09:45:05.954+0000 [consoleTerminate] shutdown: final commit...
+2015-03-25T09:45:05.954+0000 [consoleTerminate] shutdown: closing all files...
+2015-03-25T09:45:05.954+0000 [consoleTerminate] closeAllFiles() finished
+2015-03-25T09:45:05.954+0000 [consoleTerminate] journalCleanup...
+2015-03-25T09:45:05.954+0000 [consoleTerminate] removeJournalFiles
+2015-03-25T09:45:05.954+0000 [consoleTerminate] shutdown: removing fs lock...
+2015-03-25T09:45:05.954+0000 [consoleTerminate] dbexit: really exiting now
